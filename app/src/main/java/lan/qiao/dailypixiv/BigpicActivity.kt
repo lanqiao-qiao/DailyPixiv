@@ -38,7 +38,7 @@ import kotlin.concurrent.thread
 class BigpicActivity : AppCompatActivity()
 {
     val context=this
-    var name="???"
+    var name="?????"
     lateinit var bt: Bitmap
 
     override fun onCreate(savedInstanceState: Bundle?)
